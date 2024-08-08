@@ -54,7 +54,7 @@ function App() {
               min={8} max={32} />
           </div>
         </div>
-      </div>
+      </div><></>
       <div className="row justify-content-center">
         <div className="col-lg-6 col-md-8 col-sm-10 btn-group" role="group" aria-label="Basic checkbox toggle button group">
           <div>
